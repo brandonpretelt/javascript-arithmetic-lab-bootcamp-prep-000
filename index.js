@@ -26,18 +26,6 @@ function makeInt(n) {
   return parseInt(n, 10); 
 }
 
-/*var makeInt = function(n) {
-  return parseInt(n, 10); 
-};
-
-var makeInt = function(s) {
-  return parseInt(s, 10); 
-}; */
-
 function preserveDecimal(n) {
   return parseFloat(n); 
 }
-
-/*var preserveDecimal = function(s) {
-  return parseFloat(s);
-}*/
